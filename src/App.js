@@ -1,3 +1,4 @@
+//welcome to the amazon clone :D
 import './App.css';
 import Header from "./Header";
 import Home from './Home';
